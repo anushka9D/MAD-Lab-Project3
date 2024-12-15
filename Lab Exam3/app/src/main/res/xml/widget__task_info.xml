@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.example.myapplication.Widget_TaskConfigureActivity"
+    android:description="@string/app_widget_description"
+    android:initialKeyguardLayout="@layout/widget__task"
+    android:initialLayout="@layout/widget__task"
+    android:minWidth="250dp"
+    android:minHeight="110dp"
+    android:previewImage="@drawable/example_appwidget_preview"
+    android:previewLayout="@layout/widget__task"
+    android:resizeMode="horizontal|vertical"
+    android:targetCellWidth="4"
+    android:targetCellHeight="2"
+    android:updatePeriodMillis="86400000"
+    android:widgetCategory="home_screen" />

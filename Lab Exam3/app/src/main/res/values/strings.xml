@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Task Me</string>
+    <string name="loading_page">Task Me.</string>
+
+    <string name="home_page">Task Me</string>
+
+    <string name="add_page">Add Task</string>
+    <string name="add_page_title">Title</string>
+    <string name="add_page_note">Note</string>
+    <string name="add_page_date">Date</string>
+    <string name="add_page_time">Time</string>
+    <string name="add_page_add">Add Task</string>
+    <string name="add_page_title_add">Enter Title</string>
+    <string name="add_page_note_add">enter Something...</string>
+    <string name="add_page_date_add">Set Date</string>
+    <string name="add_page_time_add">Set Time</string>
+
+    <string name="edit_page">Edit Task</string>
+
+    <string name="widget_page">Task Me App</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <string name="view_page_note">Note:</string>
+    <string name="view_page_date">Date:</string>
+    <string name="view_page_time">Time:</string>
+    <string name="view_page_timer">Start</string>
+
+    <string name="timer_show">Start Timer</string>
+
+    <string name="timer_page_delete">Delete</string>
+    <string name="timer_page_pause">Pause</string>
+    <string name="timer_page_resume">Resume</string>
+
+</resources>
